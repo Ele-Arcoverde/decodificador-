@@ -1,0 +1,125 @@
+@media (max-width: 1591px) {
+    header{
+        width: 90%; 
+        flex-direction:column-reverse;
+        padding: 1rem; 
+        font-size: 0.73rem;
+    }
+    
+    * #botaoLeitor{
+        font-size: 1rem;
+        padding: 0.50rem;
+    }
+    
+    main{padding: 1.25rem;
+         font-size: 1rem;
+    }
+        .introducao{ width: 100%;
+            margin-left: 2rem;
+        }
+    
+        .ponto {margin-left: -2%; margin-top: 1.5rem;position: absolute;}
+        .regra {
+            font-size: 1rem;
+            margin-left: 5%; margin-right: 25%; margin-top: 1.5rem;position: absolute;}
+        
+        .funcionalidade {
+            flex-direction: column;
+            align-items: center;
+        }
+        
+        * #inputTextarea, #outputTextarea {
+            width: 135%;
+            margin-left: -9%;
+            font-size: 1.58rem;
+            line-height: 12rem;
+        }
+    
+        .material-symbols-outlined {margin-left: -2%;}
+        
+        .funcionalidade_buttoms {
+            margin-top: 5%;
+            margin-bottom: -5%;
+        }
+        
+        * #codificar {padding: 0.73rem 2.5rem;}
+        * #decodificar {padding:  0.73rem 1.5rem;}
+        * #reset {padding: 0.73rem 5.5rem;} 
+        
+    hr{width: 98%; margin-top: 3rem; margin-left: 3rem;}
+} 
+@media (min-width: 320px ) and (max-width: 544px) {
+    *{ width: auto;
+        margin: 0.93rem 0.6rem 0.93rem 0.6rem;
+        background-color: #08223D; 
+    }
+    
+    header{
+        width: 98%;
+        margin: 1%;
+        flex-direction:column-reverse;
+        padding: 0.8rem; 
+        font-size: 0.35rem;
+    }
+    
+    .w3-image{width: 98%;}  
+            
+    * #botaoLeitor{
+        font-size: 0.6rem;
+        padding: 0.1rem;
+        margin-left: 8%;
+    }
+    
+    main{padding: 1rem;
+         font-size: 0.8rem;
+    }
+        .introducao{ width: auto;
+            margin-left: 2rem;
+            font-size: 0.7rem;
+        }
+    
+    h3{
+        font-size: 0.9rem;
+    }
+        .ponto {margin-top: 1.5rem;position: absolute;}
+        .regra {
+            font-size: 0.6rem;
+            margin-left: 6%; margin-right: 28%; margin-top: 1.5rem;position: absolute;}
+        
+        .funcionalidade {
+            flex-direction: column;
+            align-items: center;
+        }
+        
+        * #inputTextarea, #outputTextarea {
+            width: 120%;
+            font-size: 1rem;
+            line-height: 10rem;
+        }
+    
+        .material-symbols-outlined {margin-top: 97%; position: absolute;}
+        
+        .funcionalidade_buttoms {
+            margin-top: 5%;
+            margin-bottom: -5%;
+        }
+        
+        button{    
+            font-size: 0.6rem;
+        }
+    
+        * #codificar {padding: 0.6rem 1.5rem;}
+        * #decodificar {padding: 0.6rem 1rem;}
+        * #reset {padding: 0.6rem 3.3rem;} 
+    
+        .seta {margin-left: 75%; width: 20%;}
+        
+    hr{width: auto; margin-top: 3rem; margin-left: 3rem;}
+    
+    * #creditos{
+        font-size: 0.9rem;
+    }
+    a{
+        font-size: 0.6rem;
+    }
+    }
