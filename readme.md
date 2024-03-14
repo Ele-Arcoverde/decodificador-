@@ -1,4 +1,6 @@
-Link:
+Link:https://ele-arcoverde.github.io/decodificador-/
+     https://github.com/Ele-Arcoverde/decodificador-.git
+     
 
 ## Decodificador de Texto
     Este projeto Decodificador de texto foi desenvolvido como parte dos desafios Challenges ONE Oracle na plataforma Alura. O objetivo é permitir que  os usuários criptografem ou descriptografem mensagens de texto de acordo com um conjunto específico de regras.
@@ -26,7 +28,7 @@ Link:
 -**Leitor de Voz**
 
 ## Como Usar
-    Acesse o link:
+    Acesse a Page link: https://ele-arcoverde.github.io/decodificador-/
 
     1. Insira o texto na caixa de entrada.
     2. Clique no botao Criptografar para criptografar o texto.
